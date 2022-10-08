@@ -1,7 +1,7 @@
 <h1 align="center">Sequence Allignment Parallel Implementation</h1>
 
 ### Description
-A `Parallel Implementation` of strings `Sequence Allignment` in `C++` (Especially used in `Bio-Informatics`). It reads input from `input.txt` and writes the output to file `output.txt`.
+A `Parallel Implementation` of strings `Sequence Allignment` in `C++` using MPI (Especially used in `Bio-Informatics`). It reads input from `input.txt` and writes the output to file `output.txt`.
 
 ### Format of Input
 - The first line of the file contains W1 W2 W3 W4 for computation of Alignment Score
